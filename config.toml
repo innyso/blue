@@ -1,0 +1,20 @@
+baseURL = "https://innyso.github.io"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "the tiny ops"
+theme = "hemingway2"
+copyright = "&copy; <a herf=\"https://github.com/innyso\">Inny So</a> 2017"
+
+[params]
+
+[params.highlight]
+style = "github"
+language = ["javascript", "go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/innyso"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/mini_inny"
+fa_icon = "fa-twitter"
