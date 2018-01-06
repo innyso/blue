@@ -2,7 +2,7 @@ baseURL = "https://innyso.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "the tiny ops"
-theme = "hemingway2"
+theme = "hemingway"
 copyright = "&copy; <a herf=\"https://github.com/innyso\">Inny So</a> 2017"
 
 [params]
